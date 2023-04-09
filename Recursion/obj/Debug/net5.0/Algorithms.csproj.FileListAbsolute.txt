@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/bin/Debug/net5.0/Algorithms.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/bin/Debug/net5.0/Algorithms.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/bin/Debug/net5.0/Algorithms.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/bin/Debug/net5.0/Algorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/bin/Debug/net5.0/ref/Algorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/bin/Debug/net5.0/Algorithms.pdb
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/ref/Algorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.pdb
+/Users/macbookpro/RiderProjects/Algorithms/Algorithms/obj/Debug/net5.0/Algorithms.genruntimeconfig.cache

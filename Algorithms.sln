@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{1CAAA308-5376-4071-8930-1448C7C59FF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{A23690EC-823D-43B0-9158-7B360145261B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{BD118926-C360-43DA-B8AB-85D49544AEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{590A28DC-7745-43B2-B9D0-BEF826AD031E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAAA308-5376-4071-8930-1448C7C59FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAAA308-5376-4071-8930-1448C7C59FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAAA308-5376-4071-8930-1448C7C59FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAAA308-5376-4071-8930-1448C7C59FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1CAAA308-5376-4071-8930-1448C7C59FF8} = {A23690EC-823D-43B0-9158-7B360145261B}
+		{590A28DC-7745-43B2-B9D0-BEF826AD031E} = {BD118926-C360-43DA-B8AB-85D49544AEB4}
+	EndGlobalSection
+EndGlobal

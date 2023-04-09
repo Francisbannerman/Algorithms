@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/bin/Debug/net5.0/SortingAlgorithms.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/bin/Debug/net5.0/SortingAlgorithms.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/bin/Debug/net5.0/SortingAlgorithms.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/bin/Debug/net5.0/SortingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/bin/Debug/net5.0/ref/SortingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/bin/Debug/net5.0/SortingAlgorithms.pdb
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/ref/SortingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.pdb
+/Users/macbookpro/RiderProjects/Algorithms/SortingAlgorithms/obj/Debug/net5.0/SortingAlgorithms.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/bin/Debug/net5.0/Recursion.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/bin/Debug/net5.0/Recursion.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/bin/Debug/net5.0/Recursion.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/bin/Debug/net5.0/Recursion.dll
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/bin/Debug/net5.0/ref/Recursion.dll
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/bin/Debug/net5.0/Recursion.pdb
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.dll
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/ref/Recursion.dll
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.pdb
+/Users/macbookpro/RiderProjects/Algorithms/Recursion/obj/Debug/net5.0/Recursion.genruntimeconfig.cache
