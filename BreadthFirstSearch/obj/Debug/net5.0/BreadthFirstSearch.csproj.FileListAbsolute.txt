@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/bin/Debug/net5.0/BreadthFirstSearch.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/bin/Debug/net5.0/BreadthFirstSearch.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/bin/Debug/net5.0/BreadthFirstSearch.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/bin/Debug/net5.0/BreadthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/bin/Debug/net5.0/ref/BreadthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/bin/Debug/net5.0/BreadthFirstSearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/ref/BreadthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/BreadthFirstSearch/obj/Debug/net5.0/BreadthFirstSearch.genruntimeconfig.cache

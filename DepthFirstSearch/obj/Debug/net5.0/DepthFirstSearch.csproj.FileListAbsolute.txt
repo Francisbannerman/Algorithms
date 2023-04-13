@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/bin/Debug/net5.0/DepthFirstSearch.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/bin/Debug/net5.0/DepthFirstSearch.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/bin/Debug/net5.0/DepthFirstSearch.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/bin/Debug/net5.0/DepthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/bin/Debug/net5.0/ref/DepthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/bin/Debug/net5.0/DepthFirstSearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/ref/DepthFirstSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/DepthFirstSearch/obj/Debug/net5.0/DepthFirstSearch.genruntimeconfig.cache

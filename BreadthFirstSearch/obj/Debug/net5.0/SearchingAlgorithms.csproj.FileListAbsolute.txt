@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/bin/Debug/net5.0/SearchingAlgorithms.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/bin/Debug/net5.0/SearchingAlgorithms.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/bin/Debug/net5.0/SearchingAlgorithms.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/bin/Debug/net5.0/SearchingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/bin/Debug/net5.0/ref/SearchingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/bin/Debug/net5.0/SearchingAlgorithms.pdb
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/ref/SearchingAlgorithms.dll
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.pdb
+/Users/macbookpro/RiderProjects/Algorithms/SearchingAlgorithms/obj/Debug/net5.0/SearchingAlgorithms.genruntimeconfig.cache
