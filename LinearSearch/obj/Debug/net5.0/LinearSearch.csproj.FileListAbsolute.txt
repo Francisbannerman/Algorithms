@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/bin/Debug/net5.0/LinearSearch.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/bin/Debug/net5.0/LinearSearch.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/bin/Debug/net5.0/LinearSearch.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/bin/Debug/net5.0/LinearSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/bin/Debug/net5.0/ref/LinearSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/bin/Debug/net5.0/LinearSearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/ref/LinearSearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/LinearSearch/obj/Debug/net5.0/LinearSearch.genruntimeconfig.cache

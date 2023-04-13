@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/bin/Debug/net5.0/ref/BinarySearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/ref/BinarySearch.dll
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.pdb
+/Users/macbookpro/RiderProjects/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/bin/Debug/net5.0/Dijkstra.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/bin/Debug/net5.0/Dijkstra.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/bin/Debug/net5.0/Dijkstra.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/bin/Debug/net5.0/Dijkstra.dll
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/bin/Debug/net5.0/ref/Dijkstra.dll
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/bin/Debug/net5.0/Dijkstra.pdb
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.dll
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/ref/Dijkstra.dll
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.pdb
+/Users/macbookpro/RiderProjects/Algorithms/Dijkstra/obj/Debug/net5.0/Dijkstra.genruntimeconfig.cache

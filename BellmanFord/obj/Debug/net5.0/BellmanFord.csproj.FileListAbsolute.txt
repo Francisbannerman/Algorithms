@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/bin/Debug/net5.0/BellmanFord.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/bin/Debug/net5.0/BellmanFord.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/bin/Debug/net5.0/BellmanFord.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/bin/Debug/net5.0/BellmanFord.dll
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/bin/Debug/net5.0/ref/BellmanFord.dll
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/bin/Debug/net5.0/BellmanFord.pdb
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.dll
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/ref/BellmanFord.dll
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.pdb
+/Users/macbookpro/RiderProjects/Algorithms/BellmanFord/obj/Debug/net5.0/BellmanFord.genruntimeconfig.cache
