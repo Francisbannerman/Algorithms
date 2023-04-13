@@ -8,6 +8,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{BD11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{590A28DC-7745-43B2-B9D0-BEF826AD031E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchingAlgorithms", "SearchingAlgorithms", "{56DE3745-19EC-444C-A9A1-18D8437BB9A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{E200F7E3-43B6-4CAC-8A40-A82ABF1C8BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{98118081-60F8-4909-B356-A89E5B95DE00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,9 +28,19 @@ Global
 		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590A28DC-7745-43B2-B9D0-BEF826AD031E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E200F7E3-43B6-4CAC-8A40-A82ABF1C8BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E200F7E3-43B6-4CAC-8A40-A82ABF1C8BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E200F7E3-43B6-4CAC-8A40-A82ABF1C8BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E200F7E3-43B6-4CAC-8A40-A82ABF1C8BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98118081-60F8-4909-B356-A89E5B95DE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98118081-60F8-4909-B356-A89E5B95DE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98118081-60F8-4909-B356-A89E5B95DE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98118081-60F8-4909-B356-A89E5B95DE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1CAAA308-5376-4071-8930-1448C7C59FF8} = {A23690EC-823D-43B0-9158-7B360145261B}
 		{590A28DC-7745-43B2-B9D0-BEF826AD031E} = {BD118926-C360-43DA-B8AB-85D49544AEB4}
+		{E200F7E3-43B6-4CAC-8A40-A82ABF1C8BA2} = {56DE3745-19EC-444C-A9A1-18D8437BB9A4}
+		{98118081-60F8-4909-B356-A89E5B95DE00} = {56DE3745-19EC-444C-A9A1-18D8437BB9A4}
 	EndGlobalSection
 EndGlobal
