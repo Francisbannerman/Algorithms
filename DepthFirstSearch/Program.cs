@@ -316,37 +316,3 @@ class Graph1
         }
     }
 }
-
-// class Program
-// {
-//     static void Main(string[] args)
-//     {
-//         Graph g = new Graph(4);
-//         g.AddEdge(0, 1);
-//         g.AddEdge(0, 2);
-//         g.AddEdge(1, 2);
-//         g.AddEdge(2, 0);
-//         g.AddEdge(2, 3);
-//         g.AddEdge(3, 3);
-//
-//         Console.WriteLine("Following is Depth First Traversal " +
-//                           "(starting from vertex 2)");
-//         g.DFS(2);
-//         Console.WriteLine("------------------------------------------");
-//
-//         Graph1 g1 = new Graph1(4);
-//         g1.AddEdge1(0, 1);
-//         g1.AddEdge1(0, 2);
-//         g1.AddEdge1(1, 2);
-//         g1.AddEdge1(2, 0);
-//         g1.AddEdge1(2, 3);
-//         g1.AddEdge1(3, 3);
-//
-//         Console.WriteLine("Searching for item 3...");
-//         g1.DFS(2, 3);
-//
-//
-//         Console.ReadKey();
-//     }
-//}
-
