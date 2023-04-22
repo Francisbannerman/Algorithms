@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/bin/Debug/net5.0/DynamicProgramming.deps.json
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/bin/Debug/net5.0/DynamicProgramming.runtimeconfig.json
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/bin/Debug/net5.0/DynamicProgramming.runtimeconfig.dev.json
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/bin/Debug/net5.0/DynamicProgramming.dll
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/bin/Debug/net5.0/ref/DynamicProgramming.dll
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/bin/Debug/net5.0/DynamicProgramming.pdb
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.dll
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/ref/DynamicProgramming.dll
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.pdb
+/Users/macbookpro/RiderProjects/Algorithms/DynamicProgramming/obj/Debug/net5.0/DynamicProgramming.genruntimeconfig.cache
